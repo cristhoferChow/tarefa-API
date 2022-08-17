@@ -1,0 +1,113 @@
+CRITICAL - 2022-08-17 11:53:15 --> Cannot declare class App\Database\Migrations\Produtos, because the name is already in use
+in APPPATH\Database\Migrations\2022-07-27-170837_Produtos.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2022-08-17 11:53:57 --> Table 'produtos' already exists
+ERROR - 2022-08-17 11:55:44 --> Column 'descricao' cannot be null
+CRITICAL - 2022-08-17 11:57:28 --> Cannot declare class App\Database\Migrations\Produtos, because the name is already in use
+in APPPATH\Database\Migrations\2022-07-27-170807_Produtos.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2022-08-17 12:01:05 --> Column 'descricao' cannot be null
+CRITICAL - 2022-08-17 12:13:43 --> Cannot declare class App\Database\Migrations\Produtos, because the name is already in use
+in APPPATH\Database\Migrations\2022-07-27-170807_Produtos.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2022-08-17 12:14:09 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:14:09 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:14:09 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:14:09 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:14:09 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:14:09 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:14:09 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:14:27 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:14:27 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:14:27 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:14:27 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:14:27 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:14:27 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:14:27 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:19 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:19 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:19 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:19 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:19 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:19 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:19 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:32 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:32 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:32 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:32 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:32 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:32 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:15:32 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:21 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:21 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:21 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:21 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:21 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:21 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:21 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:42 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:42 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:42 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:42 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:42 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:42 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:19:42 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:20:29 --> Error connecting to the database: Unknown database 'api'
+CRITICAL - 2022-08-17 12:21:01 --> Cannot declare class App\Database\Migrations\Produtos, because the name is already in use
+in APPPATH\Database\Migrations\2022-07-27-170837_Produtos.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2022-08-17 12:21:51 --> Table 'produtos' already exists
+ERROR - 2022-08-17 12:22:13 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:22:13 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:22:13 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:22:13 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:22:13 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:22:13 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:22:13 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:25:59 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:25:59 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:25:59 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:25:59 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:25:59 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:25:59 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:25:59 --> Unknown column 'nome' in 'field list'
+ERROR - 2022-08-17 12:26:22 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:26:22 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:26:22 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:26:22 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:26:22 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:26:22 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:26:22 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:21 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:21 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:21 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:21 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:21 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:21 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:28:21 --> Table 'api.produtos' doesn't exist
+CRITICAL - 2022-08-17 12:28:34 --> Cannot declare class App\Database\Migrations\Produtos, because the name is already in use
+in APPPATH\Database\Migrations\2022-08-17-172657_Produtos.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2022-08-17 12:28:49 --> Column 'nome' cannot be null
+ERROR - 2022-08-17 12:38:52 --> Unknown column 'cor' in 'field list'
+ERROR - 2022-08-17 12:38:52 --> Unknown column 'cor' in 'field list'
+ERROR - 2022-08-17 12:38:52 --> Unknown column 'cor' in 'field list'
+ERROR - 2022-08-17 12:38:52 --> Unknown column 'cor' in 'field list'
+ERROR - 2022-08-17 12:38:52 --> Unknown column 'cor' in 'field list'
+ERROR - 2022-08-17 12:38:52 --> Unknown column 'cor' in 'field list'
+ERROR - 2022-08-17 12:38:52 --> Unknown column 'cor' in 'field list'
+ERROR - 2022-08-17 12:40:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:40:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:40:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:40:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:40:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:40:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:40:00 --> Table 'api.produtos' doesn't exist
+ERROR - 2022-08-17 12:40:16 --> Column 'nome' cannot be null

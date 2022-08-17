@@ -17,6 +17,12 @@ class Produtos extends ResourceController
         $data = $this->produtosModel->findALL();
         return $this->response->setJson($data);
     }
+    public function listarmb()
+    {
+        $data = $this->produtosModel->findAll(3);
+        return $this->response->setJson($data);
+    }
+    
 
     public function produto($id)
     {

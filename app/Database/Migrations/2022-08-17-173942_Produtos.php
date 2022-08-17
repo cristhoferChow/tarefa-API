@@ -13,13 +13,29 @@ class Produtos extends Migration
                 'type' => 'INT',
                 'auto_increment' => true,
             ],
+            'nome' =>[
+                'type' => 'VARCHAR',
+                'constraint' => '100',
+            ],
             'descricao' => [
                 'type' => 'VARCHAR',
                 'constraint' => '100',
             ],
+            'cor' =>[
+                'type' => 'VARCHAR',
+                'constraint' => '25',
+            ],
+            'modelo' =>[
+                'type' => 'VARCHAR',
+                'constraint' => '150',
+            ],
+            'ano' =>[
+                'type' => 'INT',
+                'constraint' => '4',
+            ],
             'valor' => [
                 'type' => 'double',
-            ],
+            ]
         ]);
         $this->forge->addkey('id', true);
         $this->forge->createTable('produtos');
